@@ -7,7 +7,7 @@ Iniciando os estudos em Algoritmo, aprendendo a utilizar o GitHub e postando aqu
 - [x] Aula 2 - Primeiro Algoritmo
 - [x] Aula 3 - Comando de Entrada de Operadores
 - [x] Aula 4 - Operadores Lógicos e Relacionais
-- [ ] Aula 5 - Introdução ao Scratch
+- [x] Aula 5 - Introdução ao Scratch
 - [ ] Aula 6 - Exercícios de Algoritmo Resolvidos
 - [ ] Aula 7 - Estruturas Condicionais 1
 - [ ] Aula 8 - Estruturas Condicionais 2
