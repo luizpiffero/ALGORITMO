@@ -19,4 +19,4 @@ Iniciando os estudos em Algoritmo, aprendendo a utilizar o GitHub e postando aqu
 - [x] Aula 14 - Vetores
 - [x] Aula 15 - Matrizes
 
-Resultado da prova:
+Resultado da prova: 9/10 (aproveitamento de 90%)
