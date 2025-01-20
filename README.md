@@ -14,9 +14,9 @@ Iniciando os estudos em Algoritmo, aprendendo a utilizar o GitHub e postando aqu
 - [x] Aula 9 - Estruturas de Repetição 1
 - [x] Aula 10 - Estruturas de Repetição 2
 - [x] Aula 11 - Estruturas de Repetição 3
-- [ ] Aula 12 - Procedimentos
-- [ ] Aula 13 - Funções
-- [ ] Aula 14 - Vetores
-- [ ] Aula 15 - Matrizes
+- [x] Aula 12 - Procedimentos
+- [x] Aula 13 - Funções
+- [x] Aula 14 - Vetores
+- [x] Aula 15 - Matrizes
 
 Resultado da prova:
