@@ -20,3 +20,6 @@ Iniciando os estudos em Algoritmo, aprendendo a utilizar o GitHub e postando aqu
 - [x] Aula 15 - Matrizes
 
 Resultado da prova: 9/10 (aproveitamento de 90%)
+
+![image](https://github.com/user-attachments/assets/0d28dffe-9534-48ba-b9c0-a76f00ac9a45)
+
